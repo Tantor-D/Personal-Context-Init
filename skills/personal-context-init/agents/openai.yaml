@@ -1,0 +1,3 @@
+interface:
+  display_name: "Personal Context Init"
+  short_description: "Initialize and upgrade portable personal context folders"
